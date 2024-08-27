@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarm Ko</string>
+    <string name="title_activity_alarm_ring">ALarmRingActivity</string>
+    <string name="alarm">Alarm</string>
+</resources>
